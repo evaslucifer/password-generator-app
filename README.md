@@ -1,3 +1,13 @@
+# how to run project
+
+first open the codespace
+
+run "cd passwordGenerator" command to select the project directory
+
+install vite dependencies if needed through "npm i vite " on the terminal
+
+now, to start project run "npm run dev" on the terminal
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
